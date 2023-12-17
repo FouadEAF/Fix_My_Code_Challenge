@@ -19,4 +19,4 @@ Blog application:
 ## Admin account
 
 - email: `hbtn@hbtn.io`
-- password: `toto1234`
+- password: `eaf1234`
